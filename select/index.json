@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ハロ/ハワユ 歌いました【鹿乃】",
+  "base_artist": "鹿乃",
+  "createdAt": "2026-02-14T16:24:05.933484Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハロ/ハワユ",
+      "artist": "ナノウ",
+      "has_synced": true,
+      "path": "select/01_ハロ_ハワユ_ナノウ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハロ／ハワユ",
+      "artist": "nanou (ナノウ)",
+      "has_synced": true,
+      "path": "select/02_ハロ_ハワユ_nanou_(ナノウ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハロ／ハワユ",
+      "artist": "ほえほえP (ナノウ) feat.ばずぽんだ",
+      "has_synced": true,
+      "path": "select/03_ハロ_ハワユ_ほえほえP_(ナノウ)_feat.ばずぽんだ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハロ/ハワユ",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/04_ハロ_ハワユ_96猫.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハロ/ハワユ",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/05_ハロ_ハワユ_鹿乃.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハロ",
+      "artist": "yama feat. ぼっちぼろまる",
+      "has_synced": true,
+      "path": "select/06_ハロ_yama_feat._ぼっちぼろまる.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハロ",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/07_ハロ_yama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハロ/ハワユmix",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/08_ハロ_ハワユmix_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハロ／ハワユ",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/09_ハロ_ハワユ_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハロ",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/10_ハロ_yama.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハロ／ハワユ",
+      "artist": "Kano",
+      "has_synced": true,
+      "path": "select/11_ハロ_ハワユ_Kano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハロ/ハワユ",
+      "artist": "Nanou",
+      "has_synced": true,
+      "path": "select/12_ハロ_ハワユ_Nanou.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハロ/ハワユ",
+      "artist": "ナノウ",
+      "has_synced": true,
+      "path": "select/13_ハロ_ハワユ_ナノウ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハロ / ハワユ (Hello / How are you)",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/14_ハロ___ハワユ_(Hello___How_are_you)_96猫.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハロ/ハワユ feat.鹿乃",
+      "artist": "ナノウ(ほえほえP)",
+      "has_synced": true,
+      "path": "select/15_ハロ_ハワユ_feat.鹿乃_ナノウ(ほえほえP).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ハロ／ハワユ feat. 初音ミク",
+      "artist": "ナノウ",
+      "has_synced": true,
+      "path": "select/16_ハロ_ハワユ_feat._初音ミク_ナノウ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ハロ/ハワユ(カバー) feat.鹿乃",
+      "artist": "ナノウ(ほえほえP)",
+      "has_synced": true,
+      "path": "select/17_ハロ_ハワユ(カバー)_feat.鹿乃_ナノウ(ほえほえP).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハロ/ハワユ",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/pl_01_ハロ_ハワユ_鹿乃.txt"
+    }
+  ]
+}
