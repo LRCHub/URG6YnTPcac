@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ハロ/ハワユ 歌いました【鹿乃】",
   "base_artist": "鹿乃",
-  "createdAt": "2026-02-14T16:24:05.933484Z",
+  "createdAt": "2026-03-27T10:09:07.687207Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "鹿乃",
       "has_synced": false,
       "path": "select/pl_01_ハロ_ハワユ_鹿乃.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ハロ/ハワユ 歌いました【鹿乃】",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/localdb_01_ハロ_ハワユ_歌いました【鹿乃】_鹿乃.lrc",
+      "repo_name": "URG6YnTPcac"
     }
   ]
 }
